@@ -19,7 +19,7 @@
 
 # Facebook Version (566.0.0.48.73)
 
-![preview](https://github.com/Imran404cyber/fb_login_api/blob/f8ebf478d4849d42531980d3b38708ba748e975b/Screenshot%202026-06-28%20192002.png)
+![preview](https://github.com/Imran404cyber/fb_login_api/blob/main/Screenshot%202026-06-28%20192256.png)
 
 
 # 📖 About
